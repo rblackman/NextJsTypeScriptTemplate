@@ -5,6 +5,7 @@ Typescript template for a basic Next.JS project. This template is mostly unchang
 * Adds eslint config and plugins for airbnb.
 * Adds husky pre-commit hook for linting.
 * Adds Workbox configuration to generate a service worker.
+* Adds recoil support.
 * Adds and configures Google Analytics.
 * Adds .editorconfig and .prettierrc configs
 * Sets up VSCode to format on save and lint.
